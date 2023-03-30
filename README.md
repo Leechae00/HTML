@@ -53,7 +53,7 @@
 >> 8. `<align>` : 이미지 입력에 대한 정렬 방법을 명시한다
 
 > Style
-> 1. `<background-color> : 바탕색을 지정한다
+> 1. `<background-color>` : 바탕색을 지정한다
 > 2. `<color>` : 텍스트의 색상을 지정한다
 > 3. `<font-famliy>` : 텍스트의 글꼴을 지정한다
 > 4. `<font-size>` : 글꼴의 사이즈를 정할 수 있다
