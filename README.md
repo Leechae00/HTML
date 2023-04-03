@@ -4,11 +4,11 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#HTML의 구조">HTML의 구조</a></li>
-    <li><a href="#시맨틱 태그">시맨틱 태그</a></li>
-    <li><a href="#텍스트 입력하기">텍스트 입력하기</a></li>
-    <li><a href="#목록 만들기">목록 만들기</a></li>
-    <li><a href="#표 만들기">표 만들기</a></li>
+    <li><a href="#HTML의-구조">HTML의 구조</a></li>
+    <li><a href="#시맨틱-태그">시맨틱 태그</a></li>
+    <li><a href="#텍스트-입력하기">텍스트 입력하기</a></li>
+    <li><a href="#목록-만들기">목록 만들기</a></li>
+    <li><a href="#표-만들기">표 만들기</a></li>
     <li><a href="#입력받기">입력받기</a></li>
     <li><a href="#Style">Style</a></li>
     <li><a href="#Image">Image</a></li>
