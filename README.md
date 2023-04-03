@@ -1,7 +1,7 @@
 # 🌸Everything HTML🌸
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<details close="close">
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#HTML의-구조">HTML의 구조</a></li>
