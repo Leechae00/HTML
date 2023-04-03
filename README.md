@@ -102,7 +102,7 @@
 
 <br>
 
-## Audio,Video
+## AudioVideo
 > 1. `<object width="너비" height="높이" data="파일"></object>` : 오디오,비디오,자바애플릿,pdf 등등 가능
 > 2. `<embed src="파일 경로" width="너비" height="높이">` : object와 다르게 닫는 태그가 없음. 오디오,비디오,이미지 등 가능
 > 3. `<audio src="오디오파일 경로"></audio>` : 배경음악이나 효과음 등 오디오 파일 삽입
