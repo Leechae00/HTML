@@ -12,7 +12,7 @@
     <li><a href="#입력받기">입력받기</a></li>
     <li><a href="#Style">Style</a></li>
     <li><a href="#Image">Image</a></li>
-    <li><a href="#Audio Video">Audio,Video</a></li>
+    <li><a href="#Audio,Video">AudioVideo</a></li>
     <li><a href="#Hyperlink">Hyperlink</a></li>
     <li><a href="#단축키">단축키</a></li>    
     
