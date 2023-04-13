@@ -14,12 +14,15 @@
     <li><a href="#Image">Image</a></li>
     <li><a href="#AudioVideo">Audio,Video</a></li>
     <li><a href="#Hyperlink">Hyperlink</a></li>
+    <li><a href="#tag">tag</a></li>
+    <li><a href="#Form">Form</a></li>
+    <li><a href="#pseudo selector">pseudo selector</a></li>
     <li><a href="#단축키">단축키</a></li>    
     
   </ol>
 </details>
 
-## 1.HTML의 구조
+## HTML의 구조
 
 >1. `<!DOCTYPE html>` : 현재 문서가 HTML5 언어로 작성된 웹 문서<br>
 >2. `<html> ~ </html>` : 웹 문서의 시작과 끝을 나타내는 태그<br>
@@ -132,7 +135,7 @@
 
 <br> 
 
-## <A> tag
+## tag
 > 1. `target` 
 >> * `_blank` : 새로운 윈도우나 탭(tab)
 >> * `_self` : 링크가 위치한 현재 프레임
