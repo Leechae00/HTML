@@ -19,7 +19,6 @@
     <li><a href="#pseudo selector">pseudo selector</a></li>
     <li><a href="#단축키">단축키</a></li>    
     <li><a href="#font">font</a></li>
-    
   </ol>
 </details>
 
