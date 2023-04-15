@@ -107,6 +107,10 @@
 >> * `#` : id Selector, 각 태그를 유일하게 구분
 >> * `.` : class Selector,여러 태그를 그룹으로 묶어 동일한 css스타일 적용 가능
 >> * `tag name` : tag name Selector
+>> * child selector: `div > strong { color : dodgerblue; } ` div 직계 자식인 strong에만 적용
+>> * descendent selector: `ul strong { color : dodgerblue; }` ul의 자손 strong에 적용
+>> * `*` : 전체 셀렉터, 와일드 문자를 사용하여 모든 태그에 적용
+>> * `input[type=text] { color : red; } `: 속성 셀렉터, 값이 일치하는 태그에만 적용하는 셀렉터
 
 
 <br>
