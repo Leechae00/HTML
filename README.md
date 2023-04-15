@@ -104,8 +104,8 @@
 >> * right : 오른쪽 정렬
 >> * justify : 양쪽 정렬
 > 6. Selector
->> * `#` : id Selector
->> * `.` : class Selector
+>> * `#` : id Selector, 각 태그를 유일하게 구분
+>> * `.` : class Selector,여러 태그를 그룹으로 묶어 동일한 css스타일 적용 가능
 >> * `tag name` : tag name Selector
 
 
