@@ -103,6 +103,11 @@
 >> * lift : 왼쪽 정렬
 >> * right : 오른쪽 정렬
 >> * justify : 양쪽 정렬
+> 6. Selector
+>> * `#` : id Selector
+>> * `.` : class Selector
+>> * `tag name` : tag name Selector
+
 
 <br>
 
